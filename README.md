@@ -9,6 +9,10 @@ server 主要使用 express-jwt、node-jsonwebtoken、 redis。
 
 server 文件下执行 `npm install`, 并且安装 redis,打开 redis。
 
+然后执行 `node server`。
+
+再在client下打开个服务器 访问 client。
+
 更多请见注释。
 
 
