@@ -1,2 +1,3 @@
--node_modules
-server/README2.MD
+node_modules
+server/README.MD
+.DS_Store
