@@ -30,3 +30,6 @@ server 文件下执行 `npm install`, 并且安装 redis,打开 redis。
 - [x] 客户端和服务器端的权限限制；
 - [x] 服务器端 API 使用 json-server 实现 restful, 并使用 jwt 认证授权；
 - [x] 服务端静态文件不需要授权可访问。
+
+
+哦，对了， It's inspired by [blogjs](https://github.com/kdelemme/blogjs)
